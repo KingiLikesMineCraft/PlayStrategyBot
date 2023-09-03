@@ -1,1 +1,9 @@
 
+$ nvm use v18.16.1
+$ yarn install
+
+# Linux
+$ export API_TOKEN=xxxxxxxxxx
+
+# Windows
+$ setx API_TOKEN xxxxxxxxxx
