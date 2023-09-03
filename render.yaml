@@ -1,8 +1,1 @@
 
-$ yarn install
-
-# Linux
-$ export API_TOKEN=xxxxxxxxxx
-
-# Windows
-$ setx API_TOKEN xxxxxxxxxx
